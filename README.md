@@ -2,8 +2,8 @@
 
 very simple spring-kafka appllication
 
-first of all
-you must have kafka installed virtual machine or etc.
+first of all,
+you must to install kafka on virtual machine or etc.
 
 my project was tested on virtual machine.
 on virtual machine, make one instance with linux(ubuntu), java, scala, kafka(zookeeper attached).
